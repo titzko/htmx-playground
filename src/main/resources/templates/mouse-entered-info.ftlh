@@ -1,0 +1,1 @@
+<mark> ${.now} The mouse entered this div and this is what you get</mark>
